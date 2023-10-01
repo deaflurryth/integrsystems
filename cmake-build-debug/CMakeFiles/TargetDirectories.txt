@@ -1,0 +1,3 @@
+/Users/deaflurryth/Documents/программирование встроенных систем/integrsystems/cmake-build-debug/CMakeFiles/integrsystems.dir
+/Users/deaflurryth/Documents/программирование встроенных систем/integrsystems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/deaflurryth/Documents/программирование встроенных систем/integrsystems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
